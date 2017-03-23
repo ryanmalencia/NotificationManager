@@ -1,0 +1,12 @@
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\NotificationManager.exe.config
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\NotificationManager.exe
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\NotificationManager.pdb
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\obj\Debug\NotificationManager.exe
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\obj\Debug\NotificationManager.pdb
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\DataTypes.dll
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\WebAPIClient.dll
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\DataTypes.pdb
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\WebAPIClient.pdb
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ryanm\Documents\GitHub\NotificationManager\NotificationManager\obj\Debug\NotificationManager.csprojResolveAssemblyReference.cache
