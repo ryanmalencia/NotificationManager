@@ -1,0 +1,10 @@
+*.suo
+*.exe
+*.dll
+*.pdb
+*/bin/Debug/
+*/obj/Debug/
+*/bin/Release/
+*/obj/Release/
+packages
+*.lnk
